@@ -1,6 +1,6 @@
 # NBA MVP Prediction
 
-Predicting NBA MVP vote share with a walk-forward regression model that outperforms the Stanford CS229 baseline.
+Predicting NBA MVP vote share with a walk-forward regression model that has better accuracy than the Stanford CS229 baseline.
 
 ## What this is
 
