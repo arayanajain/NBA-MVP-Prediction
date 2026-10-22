@@ -79,7 +79,7 @@ The candidate pools, prediction targets and evaluation protocols differ. Therefo
 
 ## 6. How to Run
 
-1. Open `NBA_MVP_Prediction.ipynb` in Google Colab or Jupyter Notebook. Replace this filename with the exact notebook filename in the repository if it differs.
+1. Open `NBA_MVP_Prediction.ipynb` in Google Colab or Jupyter Notebook. 
 2. Run the notebook cells in order.
 3. The notebook downloads the dataset from the public CSV source.
 4. Review the cleaning, model evaluation, accuracy table and prediction audit outputs.
